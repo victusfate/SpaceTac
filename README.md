@@ -1,5 +1,4 @@
-<h1>Howdy</h1>
-
-This is a repo with barebones stuff to support a heroku ready sinatra(datamapper commented out) template
-clone it, heroku create yourappname, bundle install, git push heroku master and you can begin
-
+![Space Tac](https://github.com/victusfate/SpaceTac/blob/master/public/images/SpaceTac.PNG)
+<h1>Space Tac</h1>
+<i>A tactical space game!</i>
+There's little chance of Eli and I ever creating this game. Luckily Wow is choppy so it has a chance.
